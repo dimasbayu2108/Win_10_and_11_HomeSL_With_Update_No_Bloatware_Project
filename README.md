@@ -90,4 +90,10 @@ https://github.com/users/dimasbayu2108/projects/9
 # Reference
 - https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-22h2
 - https://blogs.windows.com/windowsexperience/2022/10/18/how-to-get-the-windows-10-2022-update/
-- 
+-
+
+# screenshoot:
+![Win_Testing_3-2023-01-28-22-49-18](https://user-images.githubusercontent.com/48012187/215276114-749a6fd3-ade9-4c82-92ec-938b8fcfda99.png)
+![Win_Testing_3-2023-01-28-22-48-35](https://user-images.githubusercontent.com/48012187/215276117-04ddc4e9-0dd8-4667-9ff1-865fd9f0ccf9.png)
+![Win_Testing_3-2023-01-28-22-47-46](https://user-images.githubusercontent.com/48012187/215276120-dedb0cb5-14f1-4bbe-a2b4-a1d763d963d4.png)
+![Win_Testing_3-2023-01-28-22-47-25](https://user-images.githubusercontent.com/48012187/215276124-4788284e-5ea8-42f2-833c-2d03dc85e3f5.png)
