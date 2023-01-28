@@ -1,7 +1,6 @@
 # Win_10_HomeSL_With_Update_No_Bloatware_Project
 
-project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 10 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah.
-pada tahap ini masih berupa rencana, untuk rencana apa saja yang akan dilakukan pada project ini bisa dilihat pada bagian tab projects ini
+project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 10 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah. untuk rencana apa saja yang akan dilakukan pada project ini bisa dilihat pada bagian tab projects ini
 https://github.com/users/dimasbayu2108/projects/9
 
 
@@ -89,4 +88,6 @@ https://github.com/users/dimasbayu2108/projects/9
 - 
 
 # Reference
+- https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-22h2
+- https://blogs.windows.com/windowsexperience/2022/10/18/how-to-get-the-windows-10-2022-update/
 - 
