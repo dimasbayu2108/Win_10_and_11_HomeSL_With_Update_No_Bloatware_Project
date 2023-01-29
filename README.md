@@ -84,8 +84,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - 
 
 # Reference
-- https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-22h2
-- https://blogs.windows.com/windowsexperience/2022/10/18/how-to-get-the-windows-10-2022-update/
+- 
 -
 
 # screenshoot:
