@@ -27,7 +27,7 @@ https://github.com/users/dimasbayu2108/projects/9
 - Package_for_DotNetRollup_amd64_10.0.4605.1 (.Net Framework Update) https://support.microsoft.com/en-us/topic/january-19-2023-kb5022405-cumulative-update-preview-for-net-framework-3-5-and-4-8-for-windows-10-version-20h2-windows-10-version-21h1-windows-10-version-21h2-and-windows-10-version-22h2-79531b5e-c5f7-45c1-886f-aa230a434bbb
 - Package_for_KB5015684_amd64_19041.1799.1.2 (enablement 22h2 package) https://support.microsoft.com/en-gb/topic/kb5015684-featured-update-to-windows-10-version-22h2-by-using-an-enablement-package-09d43632-f438-47b5-985e-d6fd704eee61
 - Package_for_RollupFix_amd64_19041.2546.1.6 (Cumulative Update) https://support.microsoft.com/en-us/topic/january-19-2023-kb5019275-os-builds-19042-2546-19044-2546-and-19045-2546-preview-8ae1b678-d38c-4249-848d-06b722e7c0ad
-- Package_for_ServicingStack_amd64_19041.2300.1.0 (Servicing Stuck Update) 
+- Package_for_ServicingStack_amd64_19041.2300.1.0 (Servicing Stuck Update) included in cumulative update
 
 # Tool For Modify
 - DISM
