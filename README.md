@@ -5,12 +5,12 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 
 # Windows 11 Home Single Language Version 22H2 Update Januari 2023 Build 22621. (modified by dimas bayu) 
 
-- Details: en-us_windows_11_homesl_nobloatware_version_22h2_x64_updated_jan_2023_FIXED_2023-01-30.ISO
+- Details: en-us_windows_11_homesl_nobloatware_version_22h2_x64_updated_jan_2023_bypass.iso
 - Build: 22621.1194
 - Edition: CoreSingleLanguage
-- Size: 4,40 GB
-- MD5: 26e9dcf5b6c13bb2ebd08a91b9698e04
-- SHA1: 93e6459090b9935456a46f002aee14c5b8326bce
+- Size: 3,57 GB
+- MD5: 6c1a040796b594a614ed623fcc0e21cc
+- SHA1: ab8d22f424225c0440dd339ce1b415b1deb111ad
 - Status: masih dalam peninjauan
 
 # Windows Feature or Package Removed:
@@ -106,6 +106,10 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/
 
 # screenshoot:
+![Win_Testing_3-2023-01-30-12-35-50](https://user-images.githubusercontent.com/48012187/215409427-eff620a2-2d07-45e8-918f-455f462bec0d.png)
+![Win_Testing_3-2023-01-30-12-35-01](https://user-images.githubusercontent.com/48012187/215409436-9965532f-48d3-47bb-b836-b057f08fb110.png)
+![Win_Testing_3-2023-01-30-12-34-45](https://user-images.githubusercontent.com/48012187/215409439-dc8c2a02-fb1e-45f5-9488-88d6808d24db.png)
+![Win_Testing_3-2023-01-30-12-36-16](https://user-images.githubusercontent.com/48012187/215409443-bda825a5-5e5e-4a81-8873-c17500eb4d92.png)
 
 
 
