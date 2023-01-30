@@ -106,7 +106,6 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/
 
 # screenshoot:
-![Win_Testing_3-2023-01-30-12-35-50](https://user-images.githubusercontent.com/48012187/215409427-eff620a2-2d07-45e8-918f-455f462bec0d.png)
 ![Win_Testing_3-2023-01-30-12-35-01](https://user-images.githubusercontent.com/48012187/215409436-9965532f-48d3-47bb-b836-b057f08fb110.png)
 ![Win_Testing_3-2023-01-30-12-34-45](https://user-images.githubusercontent.com/48012187/215409439-dc8c2a02-fb1e-45f5-9488-88d6808d24db.png)
 ![Win_Testing_3-2023-01-30-12-36-16](https://user-images.githubusercontent.com/48012187/215409443-bda825a5-5e5e-4a81-8873-c17500eb4d92.png)
