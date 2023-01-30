@@ -1,7 +1,9 @@
 # Win_10_HomeSL_With_Update_No_Bloatware_Project
 
-project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 10 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah. untuk rencana apa saja yang akan dilakukan pada project ini bisa dilihat pada bagian tab projects ini
-https://github.com/users/dimasbayu2108/projects/9
+project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 10 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah.
+
+link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/9
+link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://lynk.id/baydimlabproject/23AR8Oa
 
 
 # Windows 10 Home Single Language Version 22H2 Update Januari 2023 Build 19045.2546 (modified by dimas bayu)
