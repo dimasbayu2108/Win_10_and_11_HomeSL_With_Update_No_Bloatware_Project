@@ -1,16 +1,17 @@
 # Win_11_HomeSL_With_Update_No_Bloatware_Project
 
-project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 11 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah. untuk rencana apa saja yang akan dilakukan pada project ini akan dimunculkan nanti
+project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 11 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah. untuk rencana apa saja yang akan dilakukan pada project ini bisa dilihat pada tab project ini https://github.com/users/dimasbayu2108/projects/10
 
 
-# Windows 11 Home Single Language Version 22H2 Update Januari 2023 Build 22621. (modified by dimas bayu)
+# Windows 11 Home Single Language Version 22H2 Update Januari 2023 Build 22621. (modified by dimas bayu) 
 
-- Details: 
-- Build: 22621.
+- Details: en-us_windows_11_homesl_nobloatware_version_22h2_x64_updated_jan_2023_FIXED_2023-01-30.ISO
+- Build: 22621.1194
 - Edition: CoreSingleLanguage
-- Size: 
-- MD5: 
-- SHA1: 
+- Size: 4,40 GB
+- MD5: 26e9dcf5b6c13bb2ebd08a91b9698e04
+- SHA1: 93e6459090b9935456a46f002aee14c5b8326bce
+- Status: masih dalam peninjauan
 
 # Windows Feature or Package Removed:
 - Internet Explorer
@@ -22,8 +23,10 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 # Windows Feature Added:
 - Net Framework 3.5
 
-# Update or Package Incluced:
-- 
+# Update or Package Included:
+- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9130.1 https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2023-update/
+- Package_for_RollupFix~31bf3856ad364e35~amd64~~22621.1194.1.11 https://support.microsoft.com/en-us/topic/january-26-2023-kb5022360-os-build-22621-1194-preview-f6973dbe-bcc4-402a-8b9a-0541b0959403 
+- Package_for_ServicingStack_1190~31bf3856ad364e35~amd64~~22621.1190.1.0 https://support.microsoft.com/en-us/topic/january-26-2023-kb5022360-os-build-22621-1194-preview-f6973dbe-bcc4-402a-8b9a-0541b0959403 
 
 # Tool For Modify
 - DISM
@@ -80,12 +83,13 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Microsoft WebpImageExtension
 - Microsoft Windows Store
 
+
 # Note:
 - 
 
 # Reference
-- 
--
+- https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-11-version-22h2
+- https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/
 
 # screenshoot:
 
