@@ -16,7 +16,6 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 # Windows Feature or Package Removed:
 - Internet Explorer
 - Microsoft Paint
-- Quick Assist
 - Steps Recorder
 - Wordpad
 
@@ -33,8 +32,11 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 
 # Windows Apps Removed:
 - Microsoft Advertising
+- Clip Champ
 - Cortana
 - MSN Weather
+- MSN News
+- Gaming App
 - Get Help
 - Tips (Get Started)
 - Microsoft 3D Viewer
@@ -45,7 +47,8 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Microsoft Paint
 - Microsoft OneNote
 - Microsoft People
-- Microsoft Screen Sketch
+- Microsoft Power Automate Desktop
+- Microsoft ToDos
 - Microsoft Skype App
 - Microsoft Wallet
 - Windows Photos
@@ -56,6 +59,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Feedback Hub
 - Windows Maps
 - Windows Sound Recorder
+- Windows Terminal
 - Xbox TCUI
 - Xbox App
 - Xbox Game Overlay
@@ -65,23 +69,33 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Microsoft Your Phone
 - Groove Music
 - Movies & TV 
+- Quick Assist
+- Movies & TV
+- Microsoft family
+- Microsoft Client Web Experience
 
 # windows Apps Keep Installed:
 - Microsoft Desktop App Installer
 - Microsoft HEIF Image Extension
+- Microsoft HEVC Video Extension
+- Microsoft Raw Image Extension
+- Microsoft Security Health User Interface (windows defender)
 - Microsoft NET Native Framework.1.7
 - Microsoft NET Native Framework.2.2
 - Microsoft NET Native Runtime.1.7
 - Microsoft NET Native Runtime.2.2
 - Microsoft Services Store Engagemenet
 - Microsoft Store Purchase App
-- Microsoft UI Xaml 2.0
+- Microsoft UI Xaml 2.4
+- Microsoft UI Xaml 2.7
 - Microsoft VCLibs 140.00 UWPDesktop
 - Microsoft VCLibs 140.00
+- Microsoft Notepad
 - Microsoft VP9VideoExtensions
 - Microsoft WebMediaExtension
 - Microsoft WebpImageExtension
 - Microsoft Windows Store
+- Microsoft Screen Sketch (Snipping Tool)
 
 
 # Note:
