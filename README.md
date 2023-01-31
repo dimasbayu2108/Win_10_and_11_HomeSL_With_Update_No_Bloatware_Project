@@ -1,7 +1,9 @@
 # Win_11_HomeSL_With_Update_No_Bloatware_Project
 
-project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 11 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah. untuk rencana apa saja yang akan dilakukan pada project ini bisa dilihat pada tab project ini https://github.com/users/dimasbayu2108/projects/10
+project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 11 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah.
 
+- link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/10
+- link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://lynk.id/baydimlabproject/aaw5aEm
 
 # Windows 11 Home Single Language Version 22H2 Update Januari 2023 Build 22621.1194 (modified by dimas bayu) 
 
@@ -11,7 +13,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Size: 3,57 GB
 - MD5: 6c1a040796b594a614ed623fcc0e21cc
 - SHA1: ab8d22f424225c0440dd339ce1b415b1deb111ad
-- Status: masih dalam peninjauan
+- Status: Tested (Virutal Machine) reinstall or in-place upgrade
 
 # Windows Feature or Package Removed:
 - Internet Explorer
