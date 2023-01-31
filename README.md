@@ -33,6 +33,8 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 
 # Tool For Modify
 - DISM
+- 7-Zip
+- Winrar
 
 # Windows Apps Removed:
 - Microsoft Advertising
