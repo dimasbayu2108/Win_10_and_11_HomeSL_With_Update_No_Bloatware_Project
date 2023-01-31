@@ -3,7 +3,7 @@
 project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 11 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah. untuk rencana apa saja yang akan dilakukan pada project ini bisa dilihat pada tab project ini https://github.com/users/dimasbayu2108/projects/10
 
 
-# Windows 11 Home Single Language Version 22H2 Update Januari 2023 Build 22621. (modified by dimas bayu) 
+# Windows 11 Home Single Language Version 22H2 Update Januari 2023 Build 22621.1194 (modified by dimas bayu) 
 
 - Details: en-us_windows_11_homesl_nobloatware_version_22h2_x64_updated_jan_2023_bypass.iso
 - Build: 22621.1194
