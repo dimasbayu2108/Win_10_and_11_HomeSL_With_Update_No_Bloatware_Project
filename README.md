@@ -91,6 +91,19 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Microsoft WebpImageExtension
 - Microsoft Windows Store
 
+# Changelog settings windows 10 version 22h2 update januari 2023:
+- disable autoplay
+- disable quick access
+- enable windows photo viewer
+- disable fast startup
+- disable show most used apps in start menu
+- disable automatic activation
+- disable onedrive
+- disable reversed storage
+- disable storage sense
+- disable driver update
+- set windows update to "notify and choose whether to download and install"
+
 # Note:
 - 
 
