@@ -13,7 +13,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Size: 3,57 GB
 - MD5: 6c1a040796b594a614ed623fcc0e21cc
 - SHA1: ab8d22f424225c0440dd339ce1b415b1deb111ad
-- Status: Tested (Virutal Machine) reinstall or in-place upgrade
+- Status: Tested (Virtual Machine) reinstall or in-place upgrade
 
 # Windows Feature or Package Removed:
 - Internet Explorer
