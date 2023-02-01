@@ -112,7 +112,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - https://blogs.windows.com/windowsexperience/2022/10/18/how-to-get-the-windows-10-2022-update/
 -
 
-# screenshoot:
+# Screenshoot:
 ![Win_Testing_3-2023-01-28-22-47-25](https://user-images.githubusercontent.com/48012187/215276124-4788284e-5ea8-42f2-833c-2d03dc85e3f5.png)
 ![Win_Testing_3-2023-01-28-22-47-46](https://user-images.githubusercontent.com/48012187/215276120-dedb0cb5-14f1-4bbe-a2b4-a1d763d963d4.png)
 ![Win_Testing_3-2023-01-28-22-48-35](https://user-images.githubusercontent.com/48012187/215276117-04ddc4e9-0dd8-4667-9ff1-865fd9f0ccf9.png)
