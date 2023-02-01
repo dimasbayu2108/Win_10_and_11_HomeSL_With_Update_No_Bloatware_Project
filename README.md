@@ -80,7 +80,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Microsoft family
 - Microsoft Client Web Experience
 
-# windows Apps Keep Installed:
+# Windows Apps Keep Installed:
 - Microsoft Desktop App Installer
 - Microsoft HEIF Image Extension
 - Microsoft HEVC Video Extension
@@ -103,6 +103,20 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Microsoft Windows Store
 - Microsoft Screen Sketch (Snipping Tool)
 
+# Changelog settings windows 11 version 22h2 update januari 2023:
+- disable autoplay
+- disable quick access
+- enable windows photo viewer
+- disable fast startup
+- disable show most used apps in start menu
+- disable automatic activation
+- disable onedrive
+- bypass TPM and secure boot
+- disable reversed storage
+- disable storage sense
+- disable driver update
+- set windows update to "notify and choose whether to download and install"
+
 
 # Note:
 - 
@@ -111,7 +125,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-11-version-22h2
 - https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/
 
-# screenshoot:
+# Screenshoot:
 ![Win_Testing_3-2023-01-30-12-35-01](https://user-images.githubusercontent.com/48012187/215409436-9965532f-48d3-47bb-b836-b057f08fb110.png)
 ![Win_Testing_3-2023-01-30-12-34-45](https://user-images.githubusercontent.com/48012187/215409439-dc8c2a02-fb1e-45f5-9488-88d6808d24db.png)
 ![Win_Testing_3-2023-01-30-19-08-19](https://user-images.githubusercontent.com/48012187/215473780-d462977b-bd28-4988-b475-434b055276d0.png)
