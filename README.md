@@ -74,7 +74,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Groove Music
 - Movies & TV 
 
-# windows Apps Keep Installed:
+# Windows Apps Keep Installed:
 - Microsoft Desktop App Installer
 - Microsoft HEIF Image Extension
 - Microsoft NET Native Framework.1.7
