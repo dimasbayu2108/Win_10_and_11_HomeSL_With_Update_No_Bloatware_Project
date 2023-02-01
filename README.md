@@ -33,6 +33,8 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - DISM
 - 7-Zip
 - Winrar
+- Win Toolkit
+- NTLite
 
 # Windows Apps Removed:
 - Microsoft Advertising
