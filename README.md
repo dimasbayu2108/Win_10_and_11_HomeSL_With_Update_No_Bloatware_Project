@@ -1,6 +1,6 @@
 # Win_11_HomeSL_With_Update_No_Bloatware_Project
 
-project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 11 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah.
+project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 11 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah. selain itu juga dapat berjalan pada perangkat yang tidak mendukung windows 11
 
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/10
 - link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://lynk.id/baydimlabproject/aaw5aEm
@@ -119,7 +119,10 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 
 
 # Note:
-- 
+- instalasi ini sudah dimodifikasi supaya dapat terinstall pada perangkat yang tidak mendukung windows 11
+- alasan mengapa pilih edisi home single language pada dasar instalasi ini karena kebanyakan perangkat memiliki lisensi bawaan windows yang edisi home single language
+- kami membuat modifikasi ini sebisa yang kami lakukan berdasarkan laporan yang diterima. apabila masih ada eror, bug, atau crash silahkan dilaporkan supaya menjadi bahan pertimbangan untuk evaluasi project ke depannya
+- modifikasi ini bisa diaktivasikan dengan lisensi bawaan perangkat selama masih satu edisi. apabila ingin naik edisi ke pro, enterprise, atau education, silahakan memakai kunci produk edisi masing-masing untuk naik edisi sebelum melakukan aktivasi windows
 
 # Reference
 - https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-11-version-22h2
