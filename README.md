@@ -105,7 +105,10 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - set windows update to "notify and choose whether to download and install"
 
 # Note:
-- 
+- alasan mengapa pilih edisi home single language pada dasar instalasi ini karena kebanyakan perangkat memiliki lisensi bawaan windows yang edisi home single language
+- kami membuat modifikasi ini sebisa yang kami lakukan berdasarkan laporan yang diterima. apabila masih ada eror, bug, atau crash silahkan dilaporkan supaya menjadi bahan pertimbangan untuk evaluasi project ke depannya
+- modifikasi ini bisa diaktivasikan dengan lisensi bawaan perangkat selama masih satu edisi. apabila ingin naik edisi ke pro, enterprise, atau education, silahkan memakai kunci produk edisi masing-masing untuk naik edisi sebelum melakukan aktivasi windows
+
 
 # Reference
 - https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-22h2
