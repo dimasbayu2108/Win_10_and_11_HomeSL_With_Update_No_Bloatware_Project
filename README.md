@@ -3,16 +3,16 @@
 project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 11 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah. selain itu juga dapat berjalan pada perangkat yang tidak mendukung windows 11
 
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/10
-- link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://lynk.id/baydimlabproject/aaw5aEm
+- link untuk mengunduh instalasi windows 10 bisa mengakses ini: 
 
-# Windows 11 Home Single Language Version 22H2 Update Januari 2023 Build 22621.1194 (modified by dimas bayu) 
+# Windows 11 Home Single Language Version 22H2 Update September 2023 Build  (modified by dimas bayu) 
 
-- Details: en-us_windows_11_homesl_nobloatware_version_22h2_x64_updated_jan_2023_bypass.iso
-- Build: 22621.1194
+- Details: en-us_windows_11_homesl_nobloatware_version_22h2_x64_updated_september_2023_bypass.iso
+- Build: 
 - Edition: CoreSingleLanguage
-- Size: 3,57 GB
-- MD5: 6c1a040796b594a614ed623fcc0e21cc
-- SHA1: ab8d22f424225c0440dd339ce1b415b1deb111ad
+- Size: 
+- MD5: 
+- SHA1: 
 - Status: Tested (Virtual Machine) reinstall or in-place upgrade
 
 # Windows Feature or Package Removed:
@@ -25,9 +25,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Net Framework 3.5
 
 # Update or Package Included:
-- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9130.1 https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2023-update/
-- Package_for_RollupFix~31bf3856ad364e35~amd64~~22621.1194.1.11 https://support.microsoft.com/en-us/topic/january-26-2023-kb5022360-os-build-22621-1194-preview-f6973dbe-bcc4-402a-8b9a-0541b0959403 
-- Package_for_ServicingStack_1190~31bf3856ad364e35~amd64~~22621.1190.1.0 https://support.microsoft.com/en-us/topic/january-26-2023-kb5022360-os-build-22621-1194-preview-f6973dbe-bcc4-402a-8b9a-0541b0959403 
+- 
 
 # Tool For Modify
 - DISM
@@ -109,13 +107,19 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - enable windows photo viewer
 - disable fast startup
 - disable show most used apps in start menu
+- disable recenly added apps in start menu
 - disable automatic activation
-- disable onedrive
 - bypass TPM and secure boot
 - disable reversed storage
 - disable storage sense
 - disable driver update
 - set windows update to "notify and choose whether to download and install"
+- set display delete file confirmation
+- disable windows welcome experience after update windows
+- disable suggest ways to get most out of windows and finish setting up this device
+- disable tips and suggestion when using windows
+- disable automatic save my restartable apps and restart them when i sign back in
+- disable use my sign in info to automatic finish setting up after an update
 
 
 # Note:
@@ -129,9 +133,6 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/
 
 # Screenshoot:
-![Win_Testing_3-2023-01-30-12-35-01](https://user-images.githubusercontent.com/48012187/215409436-9965532f-48d3-47bb-b836-b057f08fb110.png)
-![Win_Testing_3-2023-01-30-12-34-45](https://user-images.githubusercontent.com/48012187/215409439-dc8c2a02-fb1e-45f5-9488-88d6808d24db.png)
-![Win_Testing_3-2023-01-30-19-08-19](https://user-images.githubusercontent.com/48012187/215473780-d462977b-bd28-4988-b475-434b055276d0.png)
 
 
 
