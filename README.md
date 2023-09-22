@@ -8,9 +8,9 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 # Windows 11 Home Single Language Version 22H2 Update September 2023 Build  (modified by dimas bayu) 
 
 - Details: en-us_windows_11_homesl_nobloatware_version_22h2_x64_updated_september_2023_bypass.iso
-- Build: 
+- Build: 22621.2283
 - Edition: CoreSingleLanguage
-- Size: 
+- Size: 3.90
 - MD5: 
 - SHA1: 
 - Status: Tested (Virtual Machine) reinstall or in-place upgrade
@@ -25,7 +25,9 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Net Framework 3.5
 
 # Update or Package Included:
-- 
+- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9186.2 (https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2023-security-and-quality-rollup-updates/)
+- Package_for_RollupFix~31bf3856ad364e35~amd64~~22621.2283.1.8 (https://support.microsoft.com/en-us/topic/september-12-2023-kb5030219-os-build-22621-2283-8b9ba74f-fdde-4c75-b049-77cf214f4a66)
+- Package_for_ServicingStack_2061~31bf3856ad364e35~amd64~~22621.2061.1.1 (https://support.microsoft.com/en-us/topic/september-12-2023-kb5030219-os-build-22621-2283-8b9ba74f-fdde-4c75-b049-77cf214f4a66)
 
 # Tool For Modify
 - DISM
@@ -133,6 +135,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/
 
 # Screenshoot:
+![Virtual_Machine_2-2023-09-22-08-00-34](https://github.com/dimasbayu2108/Win_10_and_11_HomeSL_With_Update_No_Bloatware_Project/assets/48012187/d0f95bf3-58bf-4676-94ab-10b62b5e13d2)
 
 
 
