@@ -10,7 +10,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Details: en-us_windows_11_homesl_nobloatware_version_22h2_x64_updated_september_2023_bypass.iso
 - Build: 22621.2283
 - Edition: CoreSingleLanguage
-- Size: 3.90
+- Size: 3,90 GB
 - MD5: 545a36613c1d9fac9aff8b8235c5ab2b
 - SHA1: 9caab8ba5be9e5cc273c44c5b4eec8c571134de7
 - Status: Tested (Virtual Machine) reinstall or in-place upgrade
