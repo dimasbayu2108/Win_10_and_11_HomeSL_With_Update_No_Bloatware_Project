@@ -5,7 +5,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/10
 - link untuk mengunduh instalasi windows 11 bisa mengakses ini: https://lynk.id/baydimlabproject/yQAp7kJ
 
-# Windows 11 Home Single Language Version 22H2 Update September 2023 Build  (modified by dimas bayu) 
+# Windows 11 Home Single Language Version 22H2 Update September 2023 Build 22621.2283 (modified by dimas bayu) 
 
 - Details: en-us_windows_11_homesl_nobloatware_version_22h2_x64_updated_september_2023_bypass.iso
 - Build: 22621.2283
