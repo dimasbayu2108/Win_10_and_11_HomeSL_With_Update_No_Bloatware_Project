@@ -3,17 +3,16 @@
 project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 10 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah.
 
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/9
-- link untuk mengunduh instalasi windows 10 bisa mengakses ini:
-
+- link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://tinyurl.com/28dj72vr
 
 # Windows 10 Home Single Language Version 22H2 Update September 2023 Build 19045. (modified by dimas bayu)
 
-- Details:
-- Build: 
+- Details: en-us_windows_10_homesl_nobloatware_version_22h2_x64_updated_september_2023.iso
+- Build: 19045.3448
 - Edition: CoreSingleLanguage
-- Size: 
-- MD5: 
-- SHA1: 
+- Size: 3,73 GB
+- MD5: f114aa75d5d8dc66e2b0e3f7ec7b2624
+- SHA1: 49cf9f6f3907fffc5f288ab0d98d35e8454af3c7
 - Status: Tested (Virtual Machine) reinstall or in-place upgrade
 
 # Windows Feature or Package Removed:
@@ -123,6 +122,8 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 -
 
 # Screenshoot:
+![Virtual_Machine_2-2023-09-24-23-35-53](https://github.com/dimasbayu2108/Win_10_and_11_HomeSL_With_Update_No_Bloatware_Project/assets/48012187/08a7fa15-9ae9-44cd-a60c-395f9b71eb1a)
+
 
 
 
