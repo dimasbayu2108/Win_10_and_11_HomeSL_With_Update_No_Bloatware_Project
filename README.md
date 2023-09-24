@@ -24,9 +24,13 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 
 # Windows Feature Added:
 - Net Framework 3.5
+- Net Framework 4.8.1
 
 # Update or Package Incluced:
-- 
+- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9186.2 (https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2023-security-and-quality-rollup-updates/)
+- Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3448.1.5 (https://support.microsoft.com/en-us/topic/september-12-2023-kb5030211-os-builds-19044-3448-and-19045-3448-c0dee353-f025-4f03-bcc1-336f74fb992c)
+- Package_for_ServicingStack_3385~31bf3856ad364e35~amd64~~19041.3385.1.0 (https://support.microsoft.com/en-us/topic/september-12-2023-kb5030211-os-builds-19044-3448-and-19045-3448-c0dee353-f025-4f03-bcc1-336f74fb992c)
+- Package_for_KB5011048~31bf3856ad364e35~amd64~~10.0.9186.1 (https://support.microsoft.com/en-gb/topic/microsoft-net-framework-4-8-1-for-windows-10-version-21h2-windows-10-version-22h2-windows-11-version-21h2-windows-server-2022-desktop-azure-editions-azure-stack-21h2-and-azure-stack-22h2-kb5011048-277f9c30-7add-4150-b774-5e3667e02256)
 
 # Tool For Modify
 - DISM
