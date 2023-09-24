@@ -6,7 +6,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - link untuk mengunduh instalasi windows 10 bisa mengakses ini:
 
 
-# Windows 10 Home Single Language Version 22H2 Update Januari 2023 Build 19045.2546 (modified by dimas bayu)
+# Windows 10 Home Single Language Version 22H2 Update September 2023 Build 19045. (modified by dimas bayu)
 
 - Details:
 - Build: 
