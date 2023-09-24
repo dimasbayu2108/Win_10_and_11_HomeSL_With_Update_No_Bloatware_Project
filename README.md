@@ -5,7 +5,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/9
 - link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://tinyurl.com/28dj72vr
 
-# Windows 10 Home Single Language Version 22H2 Update September 2023 Build 19045. (modified by dimas bayu)
+# Windows 10 Home Single Language Version 22H2 Update September 2023 Build 19045.3448 (modified by dimas bayu)
 
 - Details: en-us_windows_10_homesl_nobloatware_version_22h2_x64_updated_september_2023.iso
 - Build: 19045.3448
