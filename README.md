@@ -92,7 +92,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Microsoft WebpImageExtension
 - Microsoft Windows Store
 
-# Changelog settings windows 10 version 22h2 update januari 2023:
+# Changelog settings windows 10 version 22h2 update september 2023:
 - disable autoplay
 - disable quick access
 - enable windows photo viewer
@@ -113,6 +113,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - disabe "get tips, tricks, and suggestions as you use windows"
 - disable "windows people icon" in taskbar
 - disable "news & interest" in taskbar
+- enable onedrive, but can install manually as you want
 
 # Note:
 - alasan mengapa pilih edisi home single language pada dasar instalasi ini karena kebanyakan perangkat memiliki lisensi bawaan windows yang edisi home single language
