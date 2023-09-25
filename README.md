@@ -122,6 +122,7 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - disable tips and suggestion when using windows
 - disable automatic save my restartable apps and restart them when i sign back in
 - disable use my sign in info to automatic finish setting up after an update
+- enable onedrive, but can install manually as you want
 
 
 # Note:
