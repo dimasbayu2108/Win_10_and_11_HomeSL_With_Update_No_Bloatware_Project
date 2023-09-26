@@ -3,17 +3,16 @@
 project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 10 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah.
 
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/9
-- link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://lynk.id/baydimlabproject/23AR8Oa
+- link untuk mengunduh instalasi windows 10 bisa mengakses ini: https://tinyurl.com/28dj72vr
 
+# Windows 10 Home Single Language Version 22H2 Update September 2023 Build 19045.3448 (modified by dimas bayu)
 
-# Windows 10 Home Single Language Version 22H2 Update Januari 2023 Build 19045.2546 (modified by dimas bayu)
-
-- Details: en-us_windows_10_homesl_nobloatware_version_22h2_x64_updated_jan_2023.iso
-- Build: 19045.2546
+- Details: en-us_windows_10_homesl_nobloatware_version_22h2_x64_updated_september_2023.iso
+- Build: 19045.3448
 - Edition: CoreSingleLanguage
-- Size: 3,51 GB
-- MD5: bc992a66e9f013e8b7d8018f63b774d1
-- SHA1: f29bd39942b3be174caf7376fcb12bc81a054c1b
+- Size: 3,73 GB
+- MD5: f114aa75d5d8dc66e2b0e3f7ec7b2624
+- SHA1: 49cf9f6f3907fffc5f288ab0d98d35e8454af3c7
 - Status: Tested (Virtual Machine) reinstall or in-place upgrade
 
 # Windows Feature or Package Removed:
@@ -25,12 +24,13 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 
 # Windows Feature Added:
 - Net Framework 3.5
+- Net Framework 4.8.1
 
 # Update or Package Incluced:
-- Package_for_DotNetRollup_amd64_10.0.4605.1 (.Net Framework Update) https://support.microsoft.com/en-us/topic/january-19-2023-kb5022405-cumulative-update-preview-for-net-framework-3-5-and-4-8-for-windows-10-version-20h2-windows-10-version-21h1-windows-10-version-21h2-and-windows-10-version-22h2-79531b5e-c5f7-45c1-886f-aa230a434bbb
-- Package_for_KB5015684_amd64_19041.1799.1.2 (enablement 22h2 package) https://support.microsoft.com/en-gb/topic/kb5015684-featured-update-to-windows-10-version-22h2-by-using-an-enablement-package-09d43632-f438-47b5-985e-d6fd704eee61
-- Package_for_RollupFix_amd64_19041.2546.1.6 (Cumulative Update) https://support.microsoft.com/en-us/topic/january-19-2023-kb5019275-os-builds-19042-2546-19044-2546-and-19045-2546-preview-8ae1b678-d38c-4249-848d-06b722e7c0ad
-- Package_for_ServicingStack_amd64_19041.2300.1.0 (Servicing Stuck Update) included in cumulative update
+- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9186.2 (https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2023-security-and-quality-rollup-updates/)
+- Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3448.1.5 (https://support.microsoft.com/en-us/topic/september-12-2023-kb5030211-os-builds-19044-3448-and-19045-3448-c0dee353-f025-4f03-bcc1-336f74fb992c)
+- Package_for_ServicingStack_3385~31bf3856ad364e35~amd64~~19041.3385.1.0 (https://support.microsoft.com/en-us/topic/september-12-2023-kb5030211-os-builds-19044-3448-and-19045-3448-c0dee353-f025-4f03-bcc1-336f74fb992c)
+- Package_for_KB5011048~31bf3856ad364e35~amd64~~10.0.9186.1 (https://support.microsoft.com/en-gb/topic/microsoft-net-framework-4-8-1-for-windows-10-version-21h2-windows-10-version-22h2-windows-11-version-21h2-windows-server-2022-desktop-azure-editions-azure-stack-21h2-and-azure-stack-22h2-kb5011048-277f9c30-7add-4150-b774-5e3667e02256)
 
 # Tool For Modify
 - DISM
@@ -72,7 +72,8 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Xbox Speech To Text Overlay
 - Microsoft Your Phone
 - Groove Music
-- Movies & TV 
+- Movies & TV
+- Windows Backup
 
 # Windows Apps Keep Installed:
 - Microsoft Desktop App Installer
@@ -91,10 +92,11 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Microsoft WebpImageExtension
 - Microsoft Windows Store
 
-# Changelog settings windows 10 version 22h2 update januari 2023:
+# Changelog settings windows 10 version 22h2 update september 2023:
 - disable autoplay
 - disable quick access
 - enable windows photo viewer
+- enable display delete confirmation dialogue
 - disable fast startup
 - disable show most used apps in start menu
 - disable automatic activation
@@ -103,6 +105,15 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - disable storage sense
 - disable driver update
 - set windows update to "notify and choose whether to download and install"
+- disable windows welcome experience after update windows
+- disable "suggest ways to get most out of windows and finish setting up this device"
+- disable tips and suggestion when using windows
+- disable automatic save my restartable apps and restart them when i sign back in
+- disable use my sign in info to automatic finish setting up after an update
+- disabe "get tips, tricks, and suggestions as you use windows"
+- disable "windows people icon" in taskbar
+- disable "news & interest" in taskbar
+- enable onedrive, but can install manually as you want
 
 # Note:
 - alasan mengapa pilih edisi home single language pada dasar instalasi ini karena kebanyakan perangkat memiliki lisensi bawaan windows yang edisi home single language
@@ -116,10 +127,9 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 -
 
 # Screenshoot:
-![Win_Testing_3-2023-01-28-22-47-25](https://user-images.githubusercontent.com/48012187/215276124-4788284e-5ea8-42f2-833c-2d03dc85e3f5.png)
-![Win_Testing_3-2023-01-28-22-47-46](https://user-images.githubusercontent.com/48012187/215276120-dedb0cb5-14f1-4bbe-a2b4-a1d763d963d4.png)
-![Win_Testing_3-2023-01-28-22-48-35](https://user-images.githubusercontent.com/48012187/215276117-04ddc4e9-0dd8-4667-9ff1-865fd9f0ccf9.png)
-![Win_Testing_3-2023-01-28-22-49-18](https://user-images.githubusercontent.com/48012187/215276114-749a6fd3-ade9-4c82-92ec-938b8fcfda99.png)
+![Virtual_Machine_2-2023-09-24-23-35-53](https://github.com/dimasbayu2108/Win_10_and_11_HomeSL_With_Update_No_Bloatware_Project/assets/48012187/08a7fa15-9ae9-44cd-a60c-395f9b71eb1a)
+
+
 
 
 
