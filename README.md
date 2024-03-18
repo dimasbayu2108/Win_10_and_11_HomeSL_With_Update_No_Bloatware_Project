@@ -135,7 +135,6 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-11-version-23h2
 - https://blogs.windows.com/windowsexperience/2023/10/31/how-to-get-the-windows-11-2023-update/
 - https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-client-roadmap-update-july-2023/ba-p/3871736
-- 
 
 # Screenshoot:
 
