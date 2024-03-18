@@ -5,14 +5,14 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/10
 - link untuk mengunduh instalasi windows 11 bisa mengakses ini: https://lynk.id/baydimlabproject/yQAp7kJ
 
-# Windows 11 Home Single Language Version 22H2 Update September 2023 Build 22621.2283 (modified by dimas bayu) 
+# Windows 11 Home Single Language Version 23H2 Update Januari 2024 Build 22631.3085 (modified by dimas bayu) 
 
-- Details: en-us_windows_11_homesl_nobloatware_version_22h2_x64_updated_september_2023_bypass.iso
-- Build: 22621.2283
+- Details: en-us_windows_11_homesl_nobloatware_version_23h2_x64_updated_januari_2024_bypass.iso
+- Build: 22631.3085
 - Edition: CoreSingleLanguage
-- Size: 3,90 GB
-- MD5: 545a36613c1d9fac9aff8b8235c5ab2b
-- SHA1: 9caab8ba5be9e5cc273c44c5b4eec8c571134de7
+- Size: 4,38 GB
+- MD5: 90371b169b6165004d5cfa32d8ce7fe8
+- SHA1: 1a82000434f6c372cc380987b9d95345364e56f5
 - Status: Tested (Virtual Machine) reinstall or in-place upgrade
 
 # Windows Feature or Package Removed:
@@ -25,9 +25,10 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - Net Framework 3.5
 
 # Update or Package Included:
-- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9186.2 (https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2023-security-and-quality-rollup-updates/)
-- Package_for_RollupFix~31bf3856ad364e35~amd64~~22621.2283.1.8 (https://support.microsoft.com/en-us/topic/september-12-2023-kb5030219-os-build-22621-2283-8b9ba74f-fdde-4c75-b049-77cf214f4a66)
-- Package_for_ServicingStack_2061~31bf3856ad364e35~amd64~~22621.2061.1.1 (https://support.microsoft.com/en-us/topic/september-12-2023-kb5030219-os-build-22621-2283-8b9ba74f-fdde-4c75-b049-77cf214f4a66)
+- Package_for_DotNetRollup_481~31bf3856ad364e35~amd64~~10.0.9220.5 (https://devblogs.microsoft.com/dotnet/dotnet-framework-january-2024-cumulative-update-preview/)
+- Package_for_RollupFix~31bf3856ad364e35~amd64~~22621.3085.1.19 (https://support.microsoft.com/en-au/topic/january-23-2024-kb5034204-os-builds-22621-3085-and-22631-3085-preview-7652acf2-56dc-430e-b8ef-ec8f56ec1028)
+- Package_for_ServicingStack_3073~31bf3856ad364e35~amd64~~22621.3073.1.2 (https://support.microsoft.com/en-au/topic/january-23-2024-kb5034204-os-builds-22621-3085-and-22631-3085-preview-7652acf2-56dc-430e-b8ef-ec8f56ec1028)
+- Package_for_KB5027397~31bf3856ad364e35~amd64~~22621.2355.1.1 (https://support.microsoft.com/en-us/topic/kb5027397-feature-update-to-windows-11-version-23h2-by-using-an-enablement-package-b9e76726-3c94-40de-b40b-99decba3db9d)
 
 # Tool For Modify
 - DISM
@@ -105,7 +106,6 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 
 # Changelog settings windows 11 version 22h2 update januari 2023:
 - disable autoplay
-- disable quick access
 - enable windows photo viewer
 - disable fast startup
 - disable show most used apps in start menu
@@ -132,11 +132,13 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - modifikasi ini bisa diaktivasikan dengan lisensi bawaan perangkat selama masih satu edisi. apabila ingin naik edisi ke pro, enterprise, atau education, silahkan memakai kunci produk edisi masing-masing untuk naik edisi sebelum melakukan aktivasi windows
 
 # Reference
-- https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-11-version-22h2
-- https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/
+- https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-11-version-23h2
+- https://blogs.windows.com/windowsexperience/2023/10/31/how-to-get-the-windows-11-2023-update/
+- https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-client-roadmap-update-july-2023/ba-p/3871736
+- 
 
 # Screenshoot:
-![Virtual_Machine_2-2023-09-22-08-00-34](https://github.com/dimasbayu2108/Win_10_and_11_HomeSL_With_Update_No_Bloatware_Project/assets/48012187/d0f95bf3-58bf-4676-94ab-10b62b5e13d2)
+
 
 
 
