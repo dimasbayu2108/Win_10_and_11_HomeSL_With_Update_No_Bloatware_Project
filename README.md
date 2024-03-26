@@ -3,7 +3,6 @@
 project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari pengguna yang telah dikumpulkan sebelumnya. harapan pada project ini yaitu memodifikasi win 11 HomeSL dengan penggunaan proses sistem yang optimal serta ramah dengan spesifikasi menengah ke bawah. selain itu juga dapat berjalan pada perangkat yang tidak mendukung windows 11
 
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/10
-- link untuk mengunduh instalasi windows 11 bisa mengakses ini: https://lynk.id/baydimlabproject/yQAp7kJ
 
 # Windows 11 Home Single Language Version 22H2 Update September 2023 Build 22621.2283 (modified by dimas bayu) 
 
