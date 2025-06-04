@@ -5,14 +5,14 @@ project ini memiliki pengaturan sistem berdasarkan saran serta masukan dari peng
 - link untuk melihat rencana yang dilakukan bisa dilihat pada bagian project https://github.com/users/dimasbayu2108/projects/10
 - link untuk mengunduh instalasi windows 11 bisa mengakses ini: https://lynk.id/baydimlabproject/GWyMrrb
 
-# Windows 11 Home Single Language Version 24H2 Update September 2024 Build 26100.1742 (modified by dimas bayu) 
+# Windows 11 Home Single Language Version 24H2 Update September 2024 Build 26100.1742 (modified by D1m) 
 
 - Details: en-us_windows_11_homesl_nobloatware_version_24h2_x64_updated_september_2024_bypass.iso
 - Build: 26100.1742
 - Edition: CoreSingleLanguage
-- Size: 3.82 GB
-- MD5: 45aa3fed5f6b38b281232ee5ca0b8ca9
-- SHA1: abc8e4fc0cbbdff91d22367e9cd540d20ff7beaf
+- Size: 3.80 GB
+- MD5: 538e6955f6452a901b9a3220a5c35cd7
+- SHA1: 24616a96860541aa99032015800f3b9286ec06d3
 - Status: Tested (Virtual Machine) reinstall or in-place upgrade
 
 # Windows Feature or Package Removed:
